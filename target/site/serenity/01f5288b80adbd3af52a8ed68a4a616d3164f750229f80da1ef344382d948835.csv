@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reqres CURD test with steps","This will create a new user","SUCCESS","2022-06-07T12:26:38.453+01:00[Europe/London]","0.0","8.78"
+"Reqres CURD test with steps","Verify if the service was added","SUCCESS","2022-06-07T12:26:47.484+01:00[Europe/London]","0.0","1.94"
+"Reqres CURD test with steps","Update the user information and verify the updated information","SUCCESS","2022-06-07T12:26:49.423+01:00[Europe/London]","0.0","0.31"

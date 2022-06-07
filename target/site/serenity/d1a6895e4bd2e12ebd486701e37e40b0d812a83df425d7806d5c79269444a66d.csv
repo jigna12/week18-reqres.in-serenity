@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Reqres CURD test with steps","Delete the service and verify if the service is deleted!","FAILURE","2022-06-07T12:26:49.743+01:00[Europe/London]","0.0","0.33"

@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="in.reqres.reqresinfo.ReqresCURDTestWithSteps" skipped="0" tests="1" time="7.93" timestamp="2022-06-07T12:31:54.970+01:00[Europe/London]"><testcase classname="in.reqres.reqresinfo.ReqresCURDTestWithSteps" name="Delete the service and verify if the service is deleted!"/></testsuite>
